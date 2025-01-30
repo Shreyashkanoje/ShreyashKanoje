@@ -5,7 +5,7 @@
 
 - 👨‍💻 Key Skills: **AWS | Python | SQL | PySpark | Pandas**
 
-- 🌱 I’m currently learning **BigData, Kafka**
+- 🌱 I’m currently learning **Kafka, Airflow**
 
 - 💬 What I like **Data, Data and Data**
 
