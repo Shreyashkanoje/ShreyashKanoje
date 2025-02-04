@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1200" src="https://github.com/Shreyashkanoje/ShreyashKanoje/blob/a96842121b2f2def7c1ba7680e668c223554ed54/Extra_FIles/banner.png">
 <h1 align="center">Hi 👋, I'm Shreyash Kanoje</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer from Pune, India</h3>
 <img align="right" alt="Coding" width="230" src="https://github.com/Shreyashkanoje/ShreyashKanoje/blob/a96842121b2f2def7c1ba7680e668c223554ed54/Extra_FIles/cloud_computing.gif">
 
 - 👨‍💻 Key Skills: **AWS | Python | SQL | PySpark | Pandas**
